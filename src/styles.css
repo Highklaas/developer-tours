@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.card .card-title {
+  font-size: 18px;
+  text-align: center;
+}
+.card .card-text {
+  font-size: 12px;
+  text-align: justify;
+}
